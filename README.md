@@ -4,9 +4,8 @@ created for personal use at my internship at the masquerade atlanta.
 
 # required packages
 python3
-selenium
-beautifulsoup
-pandas
+beautifulsoup4
+requests
 
 # running the program
 ./run.py
