@@ -8,4 +8,4 @@ beautifulsoup4
 requests
 
 # running the program
-./run.py
+python3 run.py
